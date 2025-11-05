@@ -63,9 +63,11 @@ git remote set-url
 
 ## Demo
 
-![image](https://github.com/user-attachments/assets/9daefc8a-4d46-42c9-8c1e-acb039f26d23)
+<img width="1244" height="850" alt="image" src="https://github.com/user-attachments/assets/bf57be4f-2c77-4b7a-8371-f262ee28c087" />
 
-![image](https://github.com/user-attachments/assets/830183f9-8cf9-464c-bfa1-46291035aea7)
+
+<img width="1286" height="878" alt="image" src="https://github.com/user-attachments/assets/bd34191a-8a5f-4c9f-b44f-0c1e23d1e8d9" />
+
 
 
 ## Contact
